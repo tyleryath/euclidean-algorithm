@@ -1,0 +1,1 @@
+This is a python implementation of the Euclidean Algorithm to calculate GCD and eGCD. There’s also an implementation of modular exponentiation by repeated squares. This is really just to help me understand the modular arithmetic portion of my discrete mathematics course.
